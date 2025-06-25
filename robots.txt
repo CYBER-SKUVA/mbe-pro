@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbealuminiums.co.za/sitemap.xml
